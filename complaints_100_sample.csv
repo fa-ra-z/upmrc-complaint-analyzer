@@ -1,0 +1,101 @@
+complaint_text,station,source,date,passenger_name,contact,complaint_type
+"There was chewing gum stuck under almost every seat in the coach I traveled in this morning, quite unpleasant.",Mawaiya,Email,2026-07-04 17:15:24,Faraz Ahmad,9523938499,Cleanliness
+The women's washroom at Alambagh station had no soap and the floor was flooded with water.,Alambagh,Helpline Call,2026-06-06 17:16:24,Priya Singh,9644854973,Cleanliness
+Empty water bottles and food wrappers were lying scattered near the escalator entrance at Munshipulia station.,Munshipulia,Social Media,2026-06-29 05:14:24,Pooja Sharma,9197402358,Cleanliness
+"I noticed pigeon droppings on the platform bench at Badshahnagar station, nobody has cleaned it in days.",Badshahnagar,Social Media,2026-07-03 17:47:24,Pooja Sharma,9777129422,Cleanliness
+The dustbins at Charbagh station were overflowing and the smell was really bad near the ticket counter.,Charbagh,Helpline Call,2026-06-28 20:29:24,Pooja Sharma,9150017772,Cleanliness
+Paan stains on the stairs near gate 1 of Hazratganj station make it slippery and unhygienic.,Hazratganj,Social Media,2026-06-12 21:17:24,Sneha Gupta,9713013910,Cleanliness
+"Train floor was sticky, looked like something had spilled and was never mopped up.",Sachivalaya,App,2026-05-30 18:47:24,Vikas Yadav,9499858816,Cleanliness
+"The AC vents inside the coach have visible dust buildup, could be a health concern for regular commuters.",Durgapuri,Counter/In-person,2026-06-28 06:00:24,Imran Ali,9830573909,Cleanliness
+"Spider webs in the corner of the ticket counter area at Krishna Nagar station, hasn't been cleaned in a long time.",Krishna Nagar,App,2026-06-13 00:01:24,Shreya Agarwal,9488246102,Cleanliness
+"Kindly look into the cleanliness of platform 2 at IT College station, cigarette butts everywhere despite it being a no-smoking zone.",IT College (IT Chauraha),Email,2026-06-30 01:44:24,Pooja Sharma,9187891151,Cleanliness
+"Trains on the north-south corridor are running nearly 12 minutes apart during evening peak hours, way too infrequent.",Hussainganj,App,2026-06-22 01:49:24,,,Delay & Frequency
+I missed an important meeting because the train at Singar Nagar station didn't arrive for almost 25 minutes with zero announcement.,Singar Nagar,Email,2026-06-14 21:10:24,Ankit Srivastava,9277126709,Delay & Frequency
+"Service was unusually slow today, three trains passed on the opposite track before mine finally showed up.",Bhootnath Market / Indira Nagar,Counter/In-person,2026-06-29 02:32:24,Rohit Verma,9920951719,Delay & Frequency
+"There is no consistency in timing on weekends, sometimes I wait 8 minutes, sometimes 20.",Mawaiya,App,2026-05-30 00:41:24,Shreya Agarwal,9173833652,Delay & Frequency
+Train halted for nearly 7 minutes between Durgapuri and Mawaiya with no explanation given over the speaker.,Durgapuri,Helpline Call,2026-06-30 06:29:24,Neha Tiwari,9794849312,Delay & Frequency
+"Frequency during college hours near Vishwavidyalaya station is simply not enough, platforms get very congested while waiting.",Vishwavidyalaya (Lucknow University),Counter/In-person,2026-06-15 16:40:24,,,Delay & Frequency
+"Last train timing needs review, I almost got stranded at Transport Nagar station last night as it left earlier than the app showed.",Transport Nagar,Counter/In-person,2026-05-27 23:00:24,Sneha Gupta,9630098818,Delay & Frequency
+"The metro app showed 4 minutes but the actual train arrived after nearly 15, please fix the live tracking.",Lekhraj Market,App,2026-06-19 07:16:24,Pooja Sharma,9527239380,Delay & Frequency
+"Repeated delays this whole week on my daily commute from Amausi, starting to affect my office attendance.",Amausi,Email,2026-06-02 06:06:24,Rahul Chauhan,9398327495,Delay & Frequency
+Why is the first train of the day at CCS Airport station always 5-6 minutes late? This defeats the purpose of an early departure.,CCS Airport,App,2026-07-07 04:25:24,Ankit Srivastava,9485227600,Delay & Frequency
+"An unattended black backpack has been sitting near the ticket vending machines at Hussainganj station for over 20 minutes, nobody has checked it.",Hussainganj,Email,2026-07-05 23:11:24,Faraz Ahmad,9349061789,Security & Safety
+A group of men were smoking openly on platform 1 at Alambagh Bus Station despite CCTV cameras clearly visible.,Alambagh Bus Station (ISBT),App,2026-06-05 00:29:24,,,Security & Safety
+"I was followed by a stranger from the station exit at Sachivalaya all the way to the parking area, felt very unsafe.",Sachivalaya,Email,2026-07-03 02:19:24,Rahul Chauhan,9496483003,Security & Safety
+"Two passengers got into a physical fight inside the coach near Lekhraj Market station, security intervened only after several minutes.",Lekhraj Market,Email,2026-07-04 17:40:24,,,Security & Safety
+My phone was pickpocketed while boarding a crowded train at Charbagh station during peak hour.,Charbagh,Helpline Call,2026-05-31 07:51:24,Divya Pandey,9523183147,Security & Safety
+"There's a broken glass panel near the emergency exit at Bhootnath Market station, could easily cause injury.",Bhootnath Market / Indira Nagar,Counter/In-person,2026-06-21 21:18:24,Rohit Verma,9324157762,Security & Safety
+"A woman was being harassed by a group of youths on the platform at KD Singh Babu Stadium station, staff response was slow.",KD Singh Babu Stadium,App,2026-06-29 20:45:24,Sneha Gupta,9100250482,Security & Safety
+Noticed a fire extinguisher missing from its designated spot near gate 3 of Munshipulia station.,Munshipulia,App,2026-07-02 16:15:24,,,Security & Safety
+An elderly passenger collapsed near the AFC gates at Badshahnagar station and it took too long for medical help to arrive.,Badshahnagar,Counter/In-person,2026-06-10 03:49:24,Faraz Ahmad,9781192097,Security & Safety
+"CCTV camera near the parking lot exit at Amausi station appears to be non-functional, the red light isn't blinking anymore.",Amausi,Counter/In-person,2026-06-23 07:41:24,Sneha Gupta,9624059081,Security & Safety
+My GoSmart card balance was deducted for a trip I never took from Munshipulia station.,Munshipulia,App,2026-06-15 00:41:24,Sneha Gupta,9904956245,Ticketing & Fare
+The token dispensing machine at Hazratganj station keeps rejecting Rs. 100 notes even though they aren't damaged.,Hazratganj,Email,2026-06-16 20:55:24,Vikas Yadav,9667212062,Ticketing & Fare
+"AFC gate 2 at Charbagh station doesn't open on the first tap, I have to scan my QR code three or four times every day.",Charbagh,App,2026-06-27 01:52:24,,,Ticketing & Fare
+I was charged the full fare instead of the student concession rate despite having a valid ID card.,Krishna Nagar,Counter/In-person,2026-06-16 21:33:24,Sameer Khan,9656624390,Ticketing & Fare
+"Recharge done via UPI on the app succeeded and money was deducted, but the balance never updated in my card.",Singar Nagar,App,2026-07-03 23:50:24,Kavita Dubey,9453975088,Ticketing & Fare
+"There is no way to get a physical receipt after topping up a smart card at the counter, creates issues for reimbursement.",Durgapuri,Email,2026-06-18 23:23:24,,,Ticketing & Fare
+"Ticket counter at Alambagh station had only one staff member on duty during a Monday morning rush, queue was almost 15 minutes long.",Alambagh,App,2026-06-11 07:27:24,Amit Kumar,9129997207,Ticketing & Fare
+Return refund for a wrongly booked ticket on the mobile app has not been processed even after 10 days.,IT College (IT Chauraha),Counter/In-person,2026-06-16 03:16:24,Mohd. Aariz,9580207058,Ticketing & Fare
+The exit gate at Vishwavidyalaya station charged me for an extra zone I never traveled through.,Vishwavidyalaya (Lucknow University),Social Media,2026-06-14 22:41:24,Imran Ali,9311211639,Ticketing & Fare
+"QR ticket generated from the app failed to scan at both entry and exit gates at Transport Nagar station, had to buy a fresh token.",Transport Nagar,Counter/In-person,2026-07-02 16:41:24,,,Ticketing & Fare
+The upward escalator at Hazratganj station has been shut for repair for over a week now with no signage explaining why.,Hazratganj,Helpline Call,2026-05-29 20:09:24,,,Escalator & Lift
+"Lift at Badshahnagar station stopped working mid-way with two passengers inside, quite a scary experience.",Badshahnagar,App,2026-06-06 08:07:24,,,Escalator & Lift
+"Escalator steps at IT College station are uneven near the bottom, I nearly tripped while stepping off.",IT College (IT Chauraha),App,2026-06-19 06:36:24,Ritu Saxena,9193146944,Escalator & Lift
+"The lift button panel at Munshipulia station is broken, only the ground floor button actually works.",Munshipulia,App,2026-06-03 20:12:24,,,Escalator & Lift
+"Escalator handrail keeps moving faster than the steps at Sachivalaya station, doesn't feel synced correctly.",Sachivalaya,Social Media,2026-07-04 20:50:24,Shreya Agarwal,9965974909,Escalator & Lift
+"Only one of the two lifts at Charbagh station is operational, causing long waits for wheelchair users.",Charbagh,Email,2026-07-06 03:20:24,,,Escalator & Lift
+"Loud grinding noise coming from the escalator motor near platform 1 at Krishna Nagar station, sounds unsafe.",Krishna Nagar,App,2026-07-04 19:44:24,Amit Kumar,9115293232,Escalator & Lift
+"Lift doors at Alambagh Bus Station don't close fully, they stay slightly ajar even after the buzzer sounds.",Alambagh Bus Station (ISBT),App,2026-06-06 16:27:24,Vikas Yadav,9987077445,Escalator & Lift
+"Escalator at Durgapuri station was running but had an 'out of service' sign still placed in front of it, confusing commuters.",Durgapuri,Email,2026-07-01 02:27:24,Pooja Sharma,9919994920,Escalator & Lift
+The lift at Amausi station smells of urine and appears to not have been cleaned in a long time.,Amausi,Social Media,2026-06-16 06:53:24,Faraz Ahmad,9165395729,Escalator & Lift
+The CISF guard at Charbagh station spoke very rudely when I asked for directions to the parking area.,Charbagh,Email,2026-06-27 06:03:24,,,Staff Behavior
+"Ticket counter staff at Hazratganj refused to explain why my card recharge failed, just kept saying 'system issue' without helping further.",Hazratganj,Helpline Call,2026-06-25 17:06:24,Faraz Ahmad,9662110918,Staff Behavior
+A female passenger was scolded unnecessarily loudly by a station staff member for taking too long to scan her ticket.,Mawaiya,App,2026-07-01 17:00:24,,,Staff Behavior
+"Housekeeping staff ignored my request to clean a spill near the bench, said it wasn't their assigned area.",Bhootnath Market / Indira Nagar,Email,2026-05-31 17:31:24,Imran Ali,9764754893,Staff Behavior
+Announcer on duty at Sachivalaya station gave instructions in a very impatient and dismissive tone over the PA system.,Sachivalaya,App,2026-05-30 17:26:24,Imran Ali,9942106156,Staff Behavior
+A staff member at the customer help desk in Alambagh station was on a personal call and made me wait 10 minutes without acknowledging me.,Alambagh,App,2026-06-21 16:59:24,Sneha Gupta,9645153748,Staff Behavior
+The gateman at KD Singh Babu Stadium station argued with a senior citizen instead of helping her understand the fare chart.,KD Singh Babu Stadium,Counter/In-person,2026-06-25 22:55:24,Kavita Dubey,9750835376,Staff Behavior
+"Staff at the lost and found counter in Charbagh station were dismissive when I reported my lost umbrella, didn't even note it down.",Charbagh,Email,2026-06-24 08:26:24,Rahul Chauhan,9966898501,Staff Behavior
+One of the guards near the parking exit at Lekhraj Market station was rude to an auto driver trying to drop off a passenger.,Lekhraj Market,Helpline Call,2026-06-09 23:04:24,,,Staff Behavior
+"Staff at the enquiry counter in Vishwavidyalaya station gave incorrect platform information, causing me to miss my train.",Vishwavidyalaya (Lucknow University),Counter/In-person,2026-06-22 02:15:24,Sneha Gupta,9521298041,Staff Behavior
+No drinking water available at the cooler near platform 1 of Durgapuri station for the past several days.,Durgapuri,App,2026-06-12 20:08:24,Vikas Yadav,9818840243,Station Facility
+"Signage indicating the exit towards the bus stand at Alambagh Bus Station is missing, very confusing for first-time visitors.",Alambagh Bus Station (ISBT),Counter/In-person,2026-07-05 03:20:24,,,Station Facility
+Almost half the benches on the platform at Transport Nagar station are broken or missing a backrest.,Transport Nagar,App,2026-06-22 23:58:24,,,Station Facility
+The public wifi at Hazratganj station shows connected but never actually loads any webpage.,Hazratganj,Helpline Call,2026-07-05 23:21:24,Imran Ali,9274799977,Station Facility
+"Lighting in the underground parking area at Munshipulia station is very dim, feels unsafe after dark.",Munshipulia,App,2026-06-19 02:37:24,,,Station Facility
+"AC inside the train coaches barely works during afternoon hours, gets uncomfortably warm especially in summer.",CCS Airport,Email,2026-06-16 16:32:24,Rohit Verma,9875403552,Station Facility
+"There is no seating shade at the bus feeder pickup point outside Badshahnagar station, passengers wait in direct sun.",Badshahnagar,Counter/In-person,2026-06-15 08:50:24,Amit Kumar,9512686830,Station Facility
+The digital display board at Charbagh station showing next train timing has been stuck on the same time for two days.,Charbagh,Counter/In-person,2026-06-07 19:16:24,Rohit Verma,9221171715,Station Facility
+"Ramp near gate 2 of Vishwavidyalaya station is too steep and doesn't have a proper grip surface, risky when wet.",Vishwavidyalaya (Lucknow University),Counter/In-person,2026-06-02 06:05:24,Anjali Mishra,9390389284,Station Facility
+"Public announcement system at IT College station is barely audible, especially near the far end of the platform.",IT College (IT Chauraha),Counter/In-person,2026-06-30 07:55:24,Rahul Chauhan,9652743626,Station Facility
+"Platform at Vishwavidyalaya station gets extremely overcrowded around 9 AM when college students are commuting, feels unsafe.",Vishwavidyalaya (Lucknow University),App,2026-07-07 21:38:24,Priya Singh,9958550599,Overcrowding
+"Unable to board the first two trains at Alambagh station during evening rush hour due to overcrowding, had to wait almost 20 minutes.",Alambagh,Social Media,2026-05-30 00:16:24,Amit Kumar,9781224235,Overcrowding
+"There is no queue management or crowd barriers near the AFC gates at Charbagh station during peak hours, leads to pushing.",Charbagh,App,2026-05-29 01:06:24,,,Overcrowding
+"Coaches were packed way beyond comfortable capacity around 6 PM, could barely find space to hold the handrail.",Sachivalaya,App,2026-06-20 00:50:24,Ritu Saxena,9693848076,Overcrowding
+"Suggest adding more coaches or increasing frequency near Hazratganj station between 5:30 and 7 PM, it's consistently overcrowded.",Hazratganj,App,2026-06-04 00:14:24,Pooja Sharma,9217522609,Overcrowding
+Elderly and pregnant passengers struggle to find seats during rush hour with no separate boarding queue being enforced.,Krishna Nagar,App,2026-06-13 08:59:24,Neha Tiwari,9775030454,Overcrowding
+"Crowd control near the entry gates at Munshipulia station was almost non-existent during a college festival rush, quite chaotic.",Munshipulia,App,2026-06-05 00:33:24,Kavita Dubey,9821723300,Overcrowding
+Overcrowding on the platform at Badshahnagar makes it hard to maintain a safe distance from the platform edge.,Badshahnagar,Email,2026-05-26 16:12:24,,,Overcrowding
+"During the cricket match crowd rush near KD Singh Babu Stadium station, staff seemed understaffed to manage the volume of passengers.",KD Singh Babu Stadium,Helpline Call,2026-06-24 00:10:24,Vikas Yadav,9652155530,Overcrowding
+Waiting area outside Amausi station gets overcrowded with autos and taxis blocking pedestrian movement during office hours.,Amausi,Counter/In-person,2026-06-25 04:43:24,Ankit Srivastava,9804921640,Overcrowding
+The UPMRC mobile app crashes every time I try to view my trip history.,Hussainganj,Counter/In-person,2026-06-05 20:36:24,Pooja Sharma,9467976293,Digital & App
+QR code generated for my booked ticket on the app doesn't load properly on slower internet connections.,Singar Nagar,Counter/In-person,2026-06-01 16:15:24,,,Digital & App
+App shows 'payment failed' but the amount was deducted from my bank account for a wallet top-up.,Mawaiya,Email,2026-07-06 05:06:24,Priya Singh,9190714937,Digital & App
+"Unable to reset my password on the metro app, the OTP never arrives even after multiple attempts.",Bhootnath Market / Indira Nagar,Helpline Call,2026-06-09 01:13:24,Neha Tiwari,9742933425,Digital & App
+The live train tracking feature on the website hasn't been updated in what looks like several months.,KD Singh Babu Stadium,Counter/In-person,2026-05-25 00:34:24,Sameer Khan,9578700535,Digital & App
+"Booking a ticket for a group of passengers through the app doesn't allow more than 2 tickets per transaction, quite inconvenient.",Lekhraj Market,App,2026-06-29 02:26:24,,,Digital & App
+"App notification said my card was successfully linked, but scanning it at the gate still shows 'card not registered'.",Transport Nagar,App,2026-06-12 22:33:24,,,Digital & App
+The FAQ and contact page on the official website returns a broken link when trying to raise a support ticket.,Sachivalaya,App,2026-06-24 00:43:24,Divya Pandey,9190076802,Digital & App
+Fare calculator on the app gave a different amount than what was actually charged at the AFC gate.,Krishna Nagar,Helpline Call,2026-06-09 18:20:24,Amit Kumar,9197551269,Digital & App
+Dark mode in the app makes some of the text unreadable due to poor color contrast.,CCS Airport,Counter/In-person,2026-06-13 01:51:24,Divya Pandey,9124152911,Digital & App
+"Just want to appreciate how clean and well-maintained the coaches were on my ride today, genuinely pleasant experience.",Singar Nagar,Counter/In-person,2026-06-03 04:59:24,Kavita Dubey,9905886866,Positive & Suggestions
+"The staff at Charbagh station helped my elderly mother find the right platform very patiently, thank you.",Charbagh,Social Media,2026-06-24 20:29:24,,,Positive & Suggestions
+"Trains have been running exactly on time all week on my route, really appreciate the consistency.",Krishna Nagar,Helpline Call,2026-07-09 08:51:24,Priya Singh,9985683607,Positive & Suggestions
+Suggestion: it would help to have a mobile charging point near the waiting benches at major stations.,Transport Nagar,Email,2026-06-25 21:09:24,,,Positive & Suggestions
+"The new digital display boards at Hazratganj station are a great improvement, much easier to read now.",Hazratganj,Social Media,2026-06-29 17:03:24,,,Positive & Suggestions
+Would be great if UPMRC introduced a Hindi-language option on the ticket booking app for wider accessibility.,Mawaiya,App,2026-07-08 23:16:24,,,Positive & Suggestions
+"Really appreciated the quick response from station staff when I lost my card near the AFC gate at Munshipulia, they helped immediately.",Munshipulia,App,2026-06-18 06:46:24,Mohd. Aariz,9212653207,Positive & Suggestions
+"Great experience today, the security check was quick and the staff were courteous throughout.",Sachivalaya,App,2026-06-09 07:27:24,Rahul Chauhan,9830857592,Positive & Suggestions
+Suggestion: adding more feeder bus connectivity near Amausi station would encourage more people to use the metro.,Amausi,Email,2026-06-25 18:53:24,Rohit Verma,9903443818,Positive & Suggestions
+"The overall smoothness of the ride and punctuality this month has honestly improved my daily commute a lot, well done.",Durgapuri,App,2026-05-29 00:26:24,Imran Ali,9370790737,Positive & Suggestions
